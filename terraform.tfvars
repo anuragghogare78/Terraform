@@ -1,0 +1,12 @@
+region = "ap-south-1" 
+cidr_vpc = "10.0.0.0/16"
+vpc_name = "my-vpc"
+cidr_subnet = "10.0.1.0/24"
+azone = "ap-south-1a"
+sg_name = "my-sg"
+ami_id = "ami-02b8269d5e85954ef"
+key = "DevOps"
+itype = "t2.micro"
+iname = "My-instance"
+subnet_name = "my_subnet"
+instance_count = 3
