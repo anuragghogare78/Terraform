@@ -9,4 +9,4 @@ key = "DevOps"
 itype = "t2.micro"
 iname = "My-instance"
 subnet_name = "my_subnet"
-instance_count = 3
+instance_count = 1
